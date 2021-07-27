@@ -6,4 +6,8 @@ part of 'test.dart';
 // HelloAnnoGenerator
 // **************************************************************************
 
-class Hello {}
+class _A {
+  late String a;
+  late int b;
+  late List<String> c;
+}
